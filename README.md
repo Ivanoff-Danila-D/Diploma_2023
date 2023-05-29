@@ -22,3 +22,6 @@ $\cdot$ Global.py defines all global params of PBL algorithm, for example, numbe
 workers = 18$
 
 ### GPO
+GPOmain.py is the main file for GPO algorithm running. There are the definition of the GPOoptimazer class and example how to use it.
+
+$\cdot$ BiSearch.py contains a function of binary search points on the border of search space. It uses functions is_satisfy and get_params from Huperparams.py
